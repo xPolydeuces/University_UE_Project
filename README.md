@@ -1,3 +1,3 @@
-# Projekt3_Kot53446
+# UniversityProject
 
 Developed with Unreal Engine 5
